@@ -138,11 +138,3 @@ This is a full-stack web application that allows university employees to submit 
       └── App.js
       └── App.css
 ```
-
----
-
-## ✍️ Author
-
-**Your Name**  
-Email: your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)
